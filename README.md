@@ -1,4 +1,4 @@
-# Hi 👋, **I'm Mohamed Osama Mohamed (DevOps Engineer)** 🇪🇬
+# Hi 👋, **I'm Mohamed Osama (DevOps Engineer)** 🇪🇬
 <br />
 <img src='https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop-768x432.png' width="100%">
 <br />
