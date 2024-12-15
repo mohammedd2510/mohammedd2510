@@ -18,6 +18,9 @@
 - Gained hands-on experience with Linux, Bash scripting, Python, Docker, Kubernetes, and in-depth knowledge of AWS, Terraform, and Ansible.
 - Built and optimized CI/CD pipelines using Jenkins to automate and streamline the software delivery process.
 - Enhanced collaboration and adaptability through training in Agile methodologies and emotional intelligence.
+  
+## My Resume
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vj-g1qcieijtpXfGHedAbptUTKQd3Rd_/view?usp=sharing](https://drive.google.com/file/d/1vj-g1qcieijtpXfGHedAbptUTKQd3Rd_/view?usp=sharing)
 
 #### Let's Connect On:
 <a href="https://www.linkedin.com/in/mohamed-osama-67940a1b1">
